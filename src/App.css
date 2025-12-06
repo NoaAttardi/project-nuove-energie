@@ -20,7 +20,7 @@
  
 }
 .box-residenziale {
-  background-image: url("installazione-solare.jpg");
+  background-image: url("/installazione-solare.jpg");
   background-size: cover;
   background-position: center;
   height: 400px; 
@@ -31,7 +31,7 @@
     position: relative;
 }
 .box-busness {
-  background-image: url("business.png");
+  background-image: url("/business.png");
   background-size: cover;
   background-position: center;
   height: 400px; 
