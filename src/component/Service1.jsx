@@ -112,11 +112,7 @@ const Service1 = function () {
             className="  d-flex justify-content-center "
           >
             <Card className="cardcontenitore border-0 ">
-              <Card.Img
-                variant="top"
-                src="public/Servizi-1-800x726.png"
-                className="cardimg "
-              />
+              <Card.Img variant="top" src="service.png" className="cardimg " />
               <Card.Body className="p-0 mt-3">
                 <Accordion flush>
                   <Accordion.Item eventKey="1">
