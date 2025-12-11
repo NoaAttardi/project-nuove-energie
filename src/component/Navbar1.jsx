@@ -25,9 +25,9 @@ const Navbar1 = function () {
                 Home
               </Link>
               <Link
-                to={"/chisiamo"}
+                to={"/Chisiamo"}
                 className={
-                  location.pathname === "/chisiamo"
+                  location.pathname === "/Chisiamo"
                     ? "nav-item active"
                     : "nav-item"
                 }
